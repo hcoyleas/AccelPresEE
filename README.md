@@ -4,4 +4,4 @@ Supplementary material for "Evaluating Machine Learning Approaches to Predict th
 
 The models to predict the energy expenditure (EE) of preschool children from raw accelerometer data with machine learning are included in the directory [models/](https://github.com/hcoyleas/AccelPresEE/tree/main/processing). Each file corresponds to one model for a specific accelerometer model, body position, and EE outcome. 
 
-The code that was used to build the models, and calculate the features is located in the directory processing/.
+The code that was used to build the models, and calculate the features is located in the directory [processing/](https://github.com/hcoyleas/AccelPresEE/tree/main/processing).
